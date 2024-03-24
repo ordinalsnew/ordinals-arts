@@ -3,7 +3,7 @@
 
 
 ### Artists
-- Harto
+#### Harto
   
   A young artist based at Spanish. Currently Harto has launched three ga on Ordinals.
 1. [SATS](https://magiceden.io/ordinals/marketplace/sats)
@@ -18,11 +18,17 @@ The supply is 420. Maybe the best ga on ordinals.
 
 The first 10K ga on ordinals collabrated with a traditional musem.
      
-- Nullish
+#### Nullish
   
-  匿名Ordinals OG艺术家，有一批忠实的粉丝。
+  匿名Ordinals OG艺术家，有一批忠实的粉丝，Twitter上不太活跃，风格自成一套。问题是每次NFT的价格总是涨得晚，涨得少。
+
+
+  | Collections | Description  | Supply | ME |
+| --------------- | --------------- | --------------- | --------------- |
+| On the Edge of Oblivion    |  前3万的铭文，也是Nullish比较贵的集合，是html格式的图片。获取discord的bullish on nullish角色需要收藏  | 554    | https://magiceden.io/ordinals/marketplace/oblivion    |  
+|Distortion | 原本发行在以太坊上，后来迁移到Ordinals上，获取discord的bullish on nullish角色需要收藏 | 1100 | https://magiceden.io/ordinals/marketplace/distortion
   
-- Far
+#### Far
 
 magic internet money 图片创作者。关于Far的作品介绍 https://twitter.com/0xfar/status/1771557658819960892
 
@@ -32,17 +38,11 @@ magic internet money 图片创作者。关于Far的作品介绍 https://twitter.
 | FLARES    | 512    | https://magiceden.io/ordinals/marketplace/flares    |
 | EarlyGANs    | 190    | https://magiceden.io/ordinals/marketplace/earlygans    |
 
-  
-- OTO
-  一位日本艺术家
-
-
+  #### OTO
   | Collections | Supply | ME | 
 | --------------- | --------------- | --------------- |
 | Ordinal MIM    | 333    | https://magiceden.io/ordinals/marketplace/ordinal-mimi    |
 | Monoliths    | 333    | https://magiceden.io/ordinals/marketplace/monoliths    |
-   
-  
 ### Resource
 - Astam
 Astam tweeted daily ga news on twitter. Follow him([Astam](https://twitter.com/astamcloud) to learn latest news.
