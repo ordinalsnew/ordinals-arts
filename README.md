@@ -1,6 +1,7 @@
 # ordinals-arts
 ## Generative Arts
 
+
 ### Artists
 - Harto
   
@@ -22,18 +23,25 @@ The first 10K ga on ordinals collabrated with a traditional musem.
   匿名Ordinals OG艺术家，有一批忠实的粉丝。
   
 - Far
-  
-  magic internet money 图片创作者
+
+magic internet money 图片创作者。关于Far的作品介绍 https://twitter.com/0xfar/status/1771557658819960892
+
+
+  | Collections | Supply | ME |
+| --------------- | --------------- | --------------- |
+| FLARES    | 512    | https://magiceden.io/ordinals/marketplace/flares    |
+| EarlyGANs    | 190    | https://magiceden.io/ordinals/marketplace/earlygans    |
+
   
 - OTO
   一位日本艺术家
-  
-1. [Ordinal MIMI](https://magiceden.io/ordinals/marketplace/ordinal-mimi)
 
-早期作品，也是OTO本人一直在奶的，不过其格式为JPG，跟Harto的SATS格式一样。
 
-2. [Monoliths](https://magiceden.io/ordinals/marketplace/monoliths)
-  
+  | Collections | Supply | ME | 
+| --------------- | --------------- | --------------- |
+| Ordinal MIM    | 333    | https://magiceden.io/ordinals/marketplace/ordinal-mimi    |
+| Monoliths    | 333    | https://magiceden.io/ordinals/marketplace/monoliths    |
+   
   
 ### Resource
 - Astam
